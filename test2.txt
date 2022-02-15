@@ -1,9 +1,9 @@
 adfadf 
 1
 22
-333 - write in feature/one
+33 - write in feature/one
 4444 - write in feature/one
-5555
+555
 6666
 7777 - another edition in vim test2.txt
 9999
